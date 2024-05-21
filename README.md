@@ -4,7 +4,7 @@ In this repository, you will find a script to automate the creation of the links
 
 ## Requirements
 
-Column Names: Provide the names of the columns.
+Column Names: Provide the names of the columns.\n
 Reference IDs: Supply one reference ID from your source and target tables in Informatica CDGC.
 
 ## Instructions
