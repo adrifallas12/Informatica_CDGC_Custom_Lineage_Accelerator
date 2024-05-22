@@ -31,7 +31,7 @@ Insert Reference IDs:
 Fill in Association Type:
 
 - Determine the correct association type for your data lineage.
-- Locate the '_ _association_type_ _' field within the application.
+- Locate the '_association_type_' field within the application.
 - Input the determined association type to ensure correct data mapping and relationship tracking.
 
 By following these steps, you will ensure that your data is accurately referenced and associated, maintaining the integrity and reliability of your information.
