@@ -18,7 +18,7 @@ Before you begin, ensure you have met the following requirements:
 To effectively use this project, follow the instructions below:
 
 + **Reference IDs:** Insert the appropriate reference IDs in the designated fields as required
-+ **Association Type:** Complete the '_ _association_type_ _' field with the association type that corresponds to data your lineage
++ **Association Type:** Complete the '_association_type_' field with the association type that corresponds to data your lineage
 
 Detailed Steps:
 
