@@ -10,7 +10,7 @@ In Cloud Data Governance and Catalog (CDGC), you cannot use the custom catalog s
 ## Prerequisites
 Before you begin, ensure you have met the following requirements:
 
-* Have installed a code editor (e.g. VS Code]
+* Have installed a code editor (e.g. VS Code)
 * A column_names.csv file filled with the name of the columns. Make sure the name of the file is the same, if not, modify the script were applicable
 * Supply one reference ID from your source and target tables in Informatica CDGC
 
